@@ -1,0 +1,1775 @@
+<?xml version="1.0"?>
+<lists>
+<list
+   path="https://subversion.ews.illinois.edu/svn/sp14-cs242/chen320">
+<entry
+   kind="dir">
+<name>Assignment0</name>
+<commit
+   revision="1647">
+<author>chen320</author>
+<date>2014-01-30T17:26:06.486531Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/Makefile</name>
+<size>69</size>
+<commit
+   revision="1510">
+<author>chen320</author>
+<date>2014-01-30T07:54:14.043886Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/letter_i.obj</name>
+<size>876</size>
+<commit
+   revision="1511">
+<author>chen320</author>
+<date>2014-01-30T07:55:08.151147Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/mp4</name>
+<size>89832</size>
+<commit
+   revision="1647">
+<author>chen320</author>
+<date>2014-01-30T17:26:06.486531Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/mp4.cpp</name>
+<size>18876</size>
+<commit
+   revision="1647">
+<author>chen320</author>
+<date>2014-01-30T17:26:06.486531Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/mp4.h</name>
+<size>1061</size>
+<commit
+   revision="631">
+<author>chen320</author>
+<date>2014-01-29T02:43:34.403855Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0</name>
+<commit
+   revision="5045">
+<author>chen320</author>
+<date>2014-02-17T01:21:36.019332Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/.idea</name>
+<commit
+   revision="5045">
+<author>chen320</author>
+<date>2014-02-17T01:21:36.019332Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.idea/.name</name>
+<size>5</size>
+<commit
+   revision="2592">
+<author>chen320</author>
+<date>2014-02-04T02:52:20.569684Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.idea/compiler.xml</name>
+<size>711</size>
+<commit
+   revision="2592">
+<author>chen320</author>
+<date>2014-02-04T02:52:20.569684Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.idea/encodings.xml</name>
+<size>166</size>
+<commit
+   revision="2592">
+<author>chen320</author>
+<date>2014-02-04T02:52:20.569684Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.idea/misc.xml</name>
+<size>2106</size>
+<commit
+   revision="5045">
+<author>chen320</author>
+<date>2014-02-17T01:21:36.019332Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.idea/modules.xml</name>
+<size>252</size>
+<commit
+   revision="2592">
+<author>chen320</author>
+<date>2014-02-04T02:52:20.569684Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/.idea/scopes</name>
+<commit
+   revision="2592">
+<author>chen320</author>
+<date>2014-02-04T02:52:20.569684Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.idea/scopes/scope_settings.xml</name>
+<size>139</size>
+<commit
+   revision="2592">
+<author>chen320</author>
+<date>2014-02-04T02:52:20.569684Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.idea/uiDesigner.xml</name>
+<size>8794</size>
+<commit
+   revision="2875">
+<author>chen320</author>
+<date>2014-02-06T05:27:46.215428Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.idea/vcs.xml</name>
+<size>169</size>
+<commit
+   revision="2592">
+<author>chen320</author>
+<date>2014-02-04T02:52:20.569684Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.idea/workspace.xml</name>
+<size>66410</size>
+<commit
+   revision="5045">
+<author>chen320</author>
+<date>2014-02-17T01:21:36.019332Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/Chess.iml</name>
+<size>667</size>
+<commit
+   revision="2597">
+<author>chen320</author>
+<date>2014-02-04T03:32:14.987449Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/src</name>
+<commit
+   revision="5045">
+<author>chen320</author>
+<date>2014-02-17T01:21:36.019332Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/src/Controller</name>
+<commit
+   revision="2592">
+<author>chen320</author>
+<date>2014-02-04T02:52:20.569684Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/src/Model</name>
+<commit
+   revision="5045">
+<author>chen320</author>
+<date>2014-02-17T01:21:36.019332Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/Model/Board.java</name>
+<size>5418</size>
+<commit
+   revision="5045">
+<author>chen320</author>
+<date>2014-02-17T01:21:36.019332Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/Model/Color.java</name>
+<size>93</size>
+<commit
+   revision="2597">
+<author>chen320</author>
+<date>2014-02-04T03:32:14.987449Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/Model/Move.java</name>
+<size>461</size>
+<commit
+   revision="2652">
+<author>chen320</author>
+<date>2014-02-05T01:01:04.472046Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/src/Tests</name>
+<commit
+   revision="5045">
+<author>chen320</author>
+<date>2014-02-17T01:21:36.019332Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/Tests/BoardTest.java</name>
+<size>1607</size>
+<commit
+   revision="5045">
+<author>chen320</author>
+<date>2014-02-17T01:21:36.019332Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/src/Tests/Piece</name>
+<commit
+   revision="5045">
+<author>chen320</author>
+<date>2014-02-17T01:21:36.019332Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/Tests/Piece/BishopTest.java</name>
+<size>1984</size>
+<commit
+   revision="5045">
+<author>chen320</author>
+<date>2014-02-17T01:21:36.019332Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/Tests/Piece/KingTest.java</name>
+<size>1562</size>
+<commit
+   revision="3035">
+<author>chen320</author>
+<date>2014-02-06T17:43:24.708980Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/Tests/Piece/KnightTest.java</name>
+<size>1413</size>
+<commit
+   revision="5045">
+<author>chen320</author>
+<date>2014-02-17T01:21:36.019332Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/Tests/Piece/PawnTest.java</name>
+<size>1275</size>
+<commit
+   revision="5045">
+<author>chen320</author>
+<date>2014-02-17T01:21:36.019332Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/Tests/Piece/QueenTest.java</name>
+<size>1011</size>
+<commit
+   revision="5045">
+<author>chen320</author>
+<date>2014-02-17T01:21:36.019332Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/Tests/Piece/RookTest.java</name>
+<size>1412</size>
+<commit
+   revision="5045">
+<author>chen320</author>
+<date>2014-02-17T01:21:36.019332Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/src/View</name>
+<commit
+   revision="2592">
+<author>chen320</author>
+<date>2014-02-04T02:52:20.569684Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1</name>
+<commit
+   revision="7321">
+<author>chen320</author>
+<date>2014-03-06T02:18:35.063613Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/.idea</name>
+<commit
+   revision="7321">
+<author>chen320</author>
+<date>2014-03-06T02:18:35.063613Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/.idea/.name</name>
+<size>5</size>
+<commit
+   revision="4005">
+<author>chen320</author>
+<date>2014-02-13T04:04:37.545085Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/.idea/compiler.xml</name>
+<size>711</size>
+<commit
+   revision="4005">
+<author>chen320</author>
+<date>2014-02-13T04:04:37.545085Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/.idea/encodings.xml</name>
+<size>166</size>
+<commit
+   revision="4005">
+<author>chen320</author>
+<date>2014-02-13T04:04:37.545085Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/.idea/misc.xml</name>
+<size>2034</size>
+<commit
+   revision="4167">
+<author>chen320</author>
+<date>2014-02-13T09:53:16.274422Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/.idea/modules.xml</name>
+<size>252</size>
+<commit
+   revision="4005">
+<author>chen320</author>
+<date>2014-02-13T04:04:37.545085Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/.idea/scopes</name>
+<commit
+   revision="4005">
+<author>chen320</author>
+<date>2014-02-13T04:04:37.545085Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/.idea/scopes/scope_settings.xml</name>
+<size>139</size>
+<commit
+   revision="4005">
+<author>chen320</author>
+<date>2014-02-13T04:04:37.545085Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/.idea/uiDesigner.xml</name>
+<size>8794</size>
+<commit
+   revision="4005">
+<author>chen320</author>
+<date>2014-02-13T04:04:37.545085Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/.idea/vcs.xml</name>
+<size>169</size>
+<commit
+   revision="4005">
+<author>chen320</author>
+<date>2014-02-13T04:04:37.545085Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/.idea/workspace.xml</name>
+<size>63426</size>
+<commit
+   revision="7321">
+<author>chen320</author>
+<date>2014-03-06T02:18:35.063613Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Chess.iml</name>
+<size>667</size>
+<commit
+   revision="4005">
+<author>chen320</author>
+<date>2014-02-13T04:04:37.545085Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Doxyfile</name>
+<size>77197</size>
+<commit
+   revision="4166">
+<author>chen320</author>
+<date>2014-02-13T09:48:21.579428Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Manual Test Plan.pdf</name>
+<size>200029</size>
+<commit
+   revision="4206">
+<author>chen320</author>
+<date>2014-02-13T13:42:17.319694Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src</name>
+<commit
+   revision="7321">
+<author>chen320</author>
+<date>2014-03-06T02:18:35.063613Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src/Controller</name>
+<commit
+   revision="4005">
+<author>chen320</author>
+<date>2014-02-13T04:04:37.545085Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Game.java</name>
+<size>207</size>
+<commit
+   revision="4206">
+<author>chen320</author>
+<date>2014-02-13T13:42:17.319694Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src/Model</name>
+<commit
+   revision="5045">
+<author>chen320</author>
+<date>2014-02-17T01:21:36.019332Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Model/Board.java</name>
+<size>5609</size>
+<commit
+   revision="4206">
+<author>chen320</author>
+<date>2014-02-13T13:42:17.319694Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Model/Color.java</name>
+<size>90</size>
+<commit
+   revision="4206">
+<author>chen320</author>
+<date>2014-02-13T13:42:17.319694Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Model/Move.java</name>
+<size>979</size>
+<commit
+   revision="5045">
+<author>chen320</author>
+<date>2014-02-17T01:21:36.019332Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src/Model/Piece</name>
+<commit
+   revision="4206">
+<author>chen320</author>
+<date>2014-02-13T13:42:17.319694Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Model/Piece/Bishop.java</name>
+<size>1763</size>
+<commit
+   revision="4206">
+<author>chen320</author>
+<date>2014-02-13T13:42:17.319694Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Model/Piece/Empress.java</name>
+<size>953</size>
+<commit
+   revision="4166">
+<author>chen320</author>
+<date>2014-02-13T09:48:21.579428Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Model/Piece/King.java</name>
+<size>1087</size>
+<commit
+   revision="4166">
+<author>chen320</author>
+<date>2014-02-13T09:48:21.579428Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Model/Piece/Knight.java</name>
+<size>978</size>
+<commit
+   revision="4166">
+<author>chen320</author>
+<date>2014-02-13T09:48:21.579428Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Model/Piece/Pawn.java</name>
+<size>2590</size>
+<commit
+   revision="4166">
+<author>chen320</author>
+<date>2014-02-13T09:48:21.579428Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Model/Piece/Piece.java</name>
+<size>921</size>
+<commit
+   revision="4166">
+<author>chen320</author>
+<date>2014-02-13T09:48:21.579428Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Model/Piece/Queen.java</name>
+<size>1486</size>
+<commit
+   revision="4166">
+<author>chen320</author>
+<date>2014-02-13T09:48:21.579428Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Model/Piece/Rook.java</name>
+<size>3859</size>
+<commit
+   revision="4166">
+<author>chen320</author>
+<date>2014-02-13T09:48:21.579428Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Model/Piece/Wraith.java</name>
+<size>1533</size>
+<commit
+   revision="4166">
+<author>chen320</author>
+<date>2014-02-13T09:48:21.579428Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src/Tests</name>
+<commit
+   revision="7321">
+<author>chen320</author>
+<date>2014-03-06T02:18:35.063613Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Tests/BoardTest.java</name>
+<size>1607</size>
+<commit
+   revision="4005">
+<author>chen320</author>
+<date>2014-02-13T04:04:37.545085Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src/Tests/Piece</name>
+<commit
+   revision="7321">
+<author>chen320</author>
+<date>2014-03-06T02:18:35.063613Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Tests/Piece/BishopTest.java</name>
+<size>2019</size>
+<commit
+   revision="4206">
+<author>chen320</author>
+<date>2014-02-13T13:42:17.319694Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Tests/Piece/EmpressTest.java</name>
+<size>1097</size>
+<commit
+   revision="4206">
+<author>chen320</author>
+<date>2014-02-13T13:42:17.319694Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Tests/Piece/KingTest.java</name>
+<size>1562</size>
+<commit
+   revision="4005">
+<author>chen320</author>
+<date>2014-02-13T04:04:37.545085Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Tests/Piece/KnightTest.java</name>
+<size>1512</size>
+<commit
+   revision="7321">
+<author>chen320</author>
+<date>2014-03-06T02:18:35.063613Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Tests/Piece/PawnTest.java</name>
+<size>1275</size>
+<commit
+   revision="4005">
+<author>chen320</author>
+<date>2014-02-13T04:04:37.545085Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Tests/Piece/QueenTest.java</name>
+<size>2284</size>
+<commit
+   revision="4166">
+<author>chen320</author>
+<date>2014-02-13T09:48:21.579428Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Tests/Piece/RookTest.java</name>
+<size>1454</size>
+<commit
+   revision="4166">
+<author>chen320</author>
+<date>2014-02-13T09:48:21.579428Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Tests/Piece/WraithTest.java</name>
+<size>1136</size>
+<commit
+   revision="4206">
+<author>chen320</author>
+<date>2014-02-13T13:42:17.319694Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src/View</name>
+<commit
+   revision="4206">
+<author>chen320</author>
+<date>2014-02-13T13:42:17.319694Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/View/ChessLabel.java</name>
+<size>363</size>
+<commit
+   revision="4206">
+<author>chen320</author>
+<date>2014-02-13T13:42:17.319694Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/View/GameBoard.java</name>
+<size>2638</size>
+<commit
+   revision="4206">
+<author>chen320</author>
+<date>2014-02-13T13:42:17.319694Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2</name>
+<commit
+   revision="7321">
+<author>chen320</author>
+<date>2014-03-06T02:18:35.063613Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/.idea</name>
+<commit
+   revision="7321">
+<author>chen320</author>
+<date>2014-03-06T02:18:35.063613Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/.idea/.name</name>
+<size>5</size>
+<commit
+   revision="5047">
+<author>chen320</author>
+<date>2014-02-17T01:25:35.064237Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/.idea/compiler.xml</name>
+<size>711</size>
+<commit
+   revision="5047">
+<author>chen320</author>
+<date>2014-02-17T01:25:35.064237Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/.idea/encodings.xml</name>
+<size>166</size>
+<commit
+   revision="5047">
+<author>chen320</author>
+<date>2014-02-17T01:25:35.064237Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/.idea/misc.xml</name>
+<size>1945</size>
+<commit
+   revision="5451">
+<author>chen320</author>
+<date>2014-02-20T05:42:45.910174Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/.idea/modules.xml</name>
+<size>252</size>
+<commit
+   revision="5047">
+<author>chen320</author>
+<date>2014-02-17T01:25:35.064237Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/.idea/scopes</name>
+<commit
+   revision="5047">
+<author>chen320</author>
+<date>2014-02-17T01:25:35.064237Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/.idea/scopes/scope_settings.xml</name>
+<size>139</size>
+<commit
+   revision="5047">
+<author>chen320</author>
+<date>2014-02-17T01:25:35.064237Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/.idea/uiDesigner.xml</name>
+<size>8794</size>
+<commit
+   revision="5047">
+<author>chen320</author>
+<date>2014-02-17T01:25:35.064237Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/.idea/vcs.xml</name>
+<size>169</size>
+<commit
+   revision="5047">
+<author>chen320</author>
+<date>2014-02-17T01:25:35.064237Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/.idea/workspace.xml</name>
+<size>58380</size>
+<commit
+   revision="7321">
+<author>chen320</author>
+<date>2014-03-06T02:18:35.063613Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess.iml</name>
+<size>667</size>
+<commit
+   revision="5047">
+<author>chen320</author>
+<date>2014-02-17T01:25:35.064237Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Doxyfile</name>
+<size>77197</size>
+<commit
+   revision="5047">
+<author>chen320</author>
+<date>2014-02-17T01:25:35.064237Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Manual Test Plan.pdf</name>
+<size>352675</size>
+<commit
+   revision="5605">
+<author>chen320</author>
+<date>2014-02-20T17:22:55.192857Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/src</name>
+<commit
+   revision="5621">
+<author>chen320</author>
+<date>2014-02-20T18:04:41.111781Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/src/Controller</name>
+<commit
+   revision="5598">
+<author>chen320</author>
+<date>2014-02-20T16:33:21.152589Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Controller/GameController.java</name>
+<size>1582</size>
+<commit
+   revision="5598">
+<author>chen320</author>
+<date>2014-02-20T16:33:21.152589Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Game.java</name>
+<size>173</size>
+<commit
+   revision="5598">
+<author>chen320</author>
+<date>2014-02-20T16:33:21.152589Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/src/Model</name>
+<commit
+   revision="5621">
+<author>chen320</author>
+<date>2014-02-20T18:04:41.111781Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Model/Board.java</name>
+<size>8766</size>
+<commit
+   revision="5621">
+<author>chen320</author>
+<date>2014-02-20T18:04:41.111781Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Model/Move.java</name>
+<size>979</size>
+<commit
+   revision="5047">
+<author>chen320</author>
+<date>2014-02-17T01:25:35.064237Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/src/Model/Piece</name>
+<commit
+   revision="5451">
+<author>chen320</author>
+<date>2014-02-20T05:42:45.910174Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Model/Piece/Bishop.java</name>
+<size>1766</size>
+<commit
+   revision="5451">
+<author>chen320</author>
+<date>2014-02-20T05:42:45.910174Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Model/Piece/Empress.java</name>
+<size>928</size>
+<commit
+   revision="5451">
+<author>chen320</author>
+<date>2014-02-20T05:42:45.910174Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Model/Piece/King.java</name>
+<size>1091</size>
+<commit
+   revision="5451">
+<author>chen320</author>
+<date>2014-02-20T05:42:45.910174Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Model/Piece/Knight.java</name>
+<size>981</size>
+<commit
+   revision="5451">
+<author>chen320</author>
+<date>2014-02-20T05:42:45.910174Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Model/Piece/Pawn.java</name>
+<size>2521</size>
+<commit
+   revision="5451">
+<author>chen320</author>
+<date>2014-02-20T05:42:45.910174Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Model/Piece/Piece.java</name>
+<size>927</size>
+<commit
+   revision="5451">
+<author>chen320</author>
+<date>2014-02-20T05:42:45.910174Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Model/Piece/Queen.java</name>
+<size>1489</size>
+<commit
+   revision="5451">
+<author>chen320</author>
+<date>2014-02-20T05:42:45.910174Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Model/Piece/Rook.java</name>
+<size>3862</size>
+<commit
+   revision="5451">
+<author>chen320</author>
+<date>2014-02-20T05:42:45.910174Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Model/Piece/Wraith.java</name>
+<size>1536</size>
+<commit
+   revision="5451">
+<author>chen320</author>
+<date>2014-02-20T05:42:45.910174Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Model/Player.java</name>
+<size>92</size>
+<commit
+   revision="5598">
+<author>chen320</author>
+<date>2014-02-20T16:33:21.152589Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/src/Tests</name>
+<commit
+   revision="5451">
+<author>chen320</author>
+<date>2014-02-20T05:42:45.910174Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Tests/BoardTest.java</name>
+<size>1609</size>
+<commit
+   revision="5451">
+<author>chen320</author>
+<date>2014-02-20T05:42:45.910174Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/src/Tests/Piece</name>
+<commit
+   revision="5451">
+<author>chen320</author>
+<date>2014-02-20T05:42:45.910174Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Tests/Piece/BishopTest.java</name>
+<size>2023</size>
+<commit
+   revision="5451">
+<author>chen320</author>
+<date>2014-02-20T05:42:45.910174Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Tests/Piece/EmpressTest.java</name>
+<size>1100</size>
+<commit
+   revision="5451">
+<author>chen320</author>
+<date>2014-02-20T05:42:45.910174Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Tests/Piece/KingTest.java</name>
+<size>1565</size>
+<commit
+   revision="5451">
+<author>chen320</author>
+<date>2014-02-20T05:42:45.910174Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Tests/Piece/KnightTest.java</name>
+<size>1515</size>
+<commit
+   revision="5451">
+<author>chen320</author>
+<date>2014-02-20T05:42:45.910174Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Tests/Piece/PawnTest.java</name>
+<size>1278</size>
+<commit
+   revision="5451">
+<author>chen320</author>
+<date>2014-02-20T05:42:45.910174Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Tests/Piece/QueenTest.java</name>
+<size>2287</size>
+<commit
+   revision="5451">
+<author>chen320</author>
+<date>2014-02-20T05:42:45.910174Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Tests/Piece/RookTest.java</name>
+<size>1456</size>
+<commit
+   revision="5451">
+<author>chen320</author>
+<date>2014-02-20T05:42:45.910174Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Tests/Piece/WraithTest.java</name>
+<size>1140</size>
+<commit
+   revision="5451">
+<author>chen320</author>
+<date>2014-02-20T05:42:45.910174Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/src/View</name>
+<commit
+   revision="5598">
+<author>chen320</author>
+<date>2014-02-20T16:33:21.152589Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/View/ChessButton.java</name>
+<size>358</size>
+<commit
+   revision="5374">
+<author>chen320</author>
+<date>2014-02-20T00:13:01.328367Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/View/GameBoard.java</name>
+<size>11021</size>
+<commit
+   revision="5598">
+<author>chen320</author>
+<date>2014-02-20T16:33:21.152589Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.0</name>
+<commit
+   revision="6634">
+<author>chen320</author>
+<date>2014-02-27T17:47:40.532320Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/Info.py</name>
+<size>2441</size>
+<commit
+   revision="6634">
+<author>chen320</author>
+<date>2014-02-27T17:47:40.532320Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/Stats.py</name>
+<size>4994</size>
+<commit
+   revision="6634">
+<author>chen320</author>
+<date>2014-02-27T17:47:40.532320Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/Structures.py</name>
+<size>1688</size>
+<commit
+   revision="6634">
+<author>chen320</author>
+<date>2014-02-27T17:47:40.532320Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/main.py</name>
+<size>3563</size>
+<commit
+   revision="6634">
+<author>chen320</author>
+<date>2014-02-27T17:47:40.532320Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/map_data.json</name>
+<size>16098</size>
+<commit
+   revision="6557">
+<author>chen320</author>
+<date>2014-02-27T07:54:07.842933Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/tests.py</name>
+<size>1130</size>
+<commit
+   revision="6634">
+<author>chen320</author>
+<date>2014-02-27T17:47:40.532320Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1</name>
+<commit
+   revision="7957">
+<author>chen320</author>
+<date>2014-03-11T19:30:23.955400Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/.idea</name>
+<commit
+   revision="7957">
+<author>chen320</author>
+<date>2014-03-11T19:30:23.955400Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/.idea/.name</name>
+<size>13</size>
+<commit
+   revision="7331">
+<author>chen320</author>
+<date>2014-03-06T03:25:09.883793Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/.idea/Assignment2.1.iml</name>
+<size>286</size>
+<commit
+   revision="7331">
+<author>chen320</author>
+<date>2014-03-06T03:25:09.883793Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/.idea/encodings.xml</name>
+<size>166</size>
+<commit
+   revision="7321">
+<author>chen320</author>
+<date>2014-03-06T02:18:35.063613Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/.idea/misc.xml</name>
+<size>629</size>
+<commit
+   revision="7370">
+<author>chen320</author>
+<date>2014-03-06T07:47:58.450663Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/.idea/modules.xml</name>
+<size>280</size>
+<commit
+   revision="7331">
+<author>chen320</author>
+<date>2014-03-06T03:25:09.883793Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/.idea/scopes</name>
+<commit
+   revision="7321">
+<author>chen320</author>
+<date>2014-03-06T02:18:35.063613Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/.idea/scopes/scope_settings.xml</name>
+<size>139</size>
+<commit
+   revision="7321">
+<author>chen320</author>
+<date>2014-03-06T02:18:35.063613Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/.idea/vcs.xml</name>
+<size>182</size>
+<commit
+   revision="7321">
+<author>chen320</author>
+<date>2014-03-06T02:18:35.063613Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/.idea/workspace.xml</name>
+<size>52936</size>
+<commit
+   revision="7957">
+<author>chen320</author>
+<date>2014-03-11T19:30:23.955400Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/EditNetwork.py</name>
+<size>3023</size>
+<commit
+   revision="7477">
+<author>chen320</author>
+<date>2014-03-06T18:50:36.278093Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Info.py</name>
+<size>2238</size>
+<commit
+   revision="7331">
+<author>chen320</author>
+<date>2014-03-06T03:25:09.883793Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/RouteInfo.py</name>
+<size>2745</size>
+<commit
+   revision="7491">
+<author>chen320</author>
+<date>2014-03-06T19:37:40.939893Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Stats.py</name>
+<size>4764</size>
+<commit
+   revision="7428">
+<author>chen320</author>
+<date>2014-03-06T14:13:35.852985Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Structures.py</name>
+<size>3064</size>
+<commit
+   revision="7461">
+<author>chen320</author>
+<date>2014-03-06T17:46:14.540998Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/cmi_hub.json</name>
+<size>1103</size>
+<commit
+   revision="7398">
+<author>chen320</author>
+<date>2014-03-06T10:20:49.019547Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/main.py</name>
+<size>6067</size>
+<commit
+   revision="7477">
+<author>chen320</author>
+<date>2014-03-06T18:50:36.278093Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/map_data.json</name>
+<size>16098</size>
+<commit
+   revision="7321">
+<author>chen320</author>
+<date>2014-03-06T02:18:35.063613Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/tests.py</name>
+<size>3191</size>
+<commit
+   revision="7462">
+<author>chen320</author>
+<date>2014-03-06T17:47:02.171315Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0</name>
+<commit
+   revision="8079">
+<author>chen320</author>
+<date>2014-03-13T06:45:17.736173Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/Assignment3_0</name>
+<commit
+   revision="8079">
+<author>chen320</author>
+<date>2014-03-13T06:45:17.736173Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/Assignment3_0/Assignment3_0</name>
+<commit
+   revision="8079">
+<author>chen320</author>
+<date>2014-03-13T06:45:17.736173Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/Assignment3_0/Assignment3_0/__init__.py</name>
+<size>0</size>
+<commit
+   revision="8060">
+<author>chen320</author>
+<date>2014-03-13T02:47:18.479399Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/Assignment3_0/Assignment3_0/settings.py</name>
+<size>1853</size>
+<commit
+   revision="8079">
+<author>chen320</author>
+<date>2014-03-13T06:45:17.736173Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/Assignment3_0/Assignment3_0/urls.py</name>
+<size>367</size>
+<commit
+   revision="8079">
+<author>chen320</author>
+<date>2014-03-13T06:45:17.736173Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/Assignment3_0/Assignment3_0/wsgi.py</name>
+<size>401</size>
+<commit
+   revision="8060">
+<author>chen320</author>
+<date>2014-03-13T02:47:18.479399Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/Assignment3_0/manage.py</name>
+<size>256</size>
+<commit
+   revision="8060">
+<author>chen320</author>
+<date>2014-03-13T02:47:18.479399Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/Assignment3_0/svn_parse</name>
+<commit
+   revision="8079">
+<author>chen320</author>
+<date>2014-03-13T06:45:17.736173Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/Assignment3_0/svn_parse/__init__.py</name>
+<size>0</size>
+<commit
+   revision="8079">
+<author>chen320</author>
+<date>2014-03-13T06:45:17.736173Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/Assignment3_0/svn_parse/admin.py</name>
+<size>63</size>
+<commit
+   revision="8079">
+<author>chen320</author>
+<date>2014-03-13T06:45:17.736173Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/Assignment3_0/svn_parse/models.py</name>
+<size>57</size>
+<commit
+   revision="8079">
+<author>chen320</author>
+<date>2014-03-13T06:45:17.736173Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/Assignment3_0/svn_parse/parse_xml.py</name>
+<size>20</size>
+<commit
+   revision="8079">
+<author>chen320</author>
+<date>2014-03-13T06:45:17.736173Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/Assignment3_0/svn_parse/tests.py</name>
+<size>60</size>
+<commit
+   revision="8079">
+<author>chen320</author>
+<date>2014-03-13T06:45:17.736173Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/Assignment3_0/svn_parse/views.py</name>
+<size>63</size>
+<commit
+   revision="8079">
+<author>chen320</author>
+<date>2014-03-13T06:45:17.736173Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/Assignment3_0/templates</name>
+<commit
+   revision="8079">
+<author>chen320</author>
+<date>2014-03-13T06:45:17.736173Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/Assignment3_0/templates/footer.html</name>
+<size>374</size>
+<commit
+   revision="8079">
+<author>chen320</author>
+<date>2014-03-13T06:45:17.736173Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/Assignment3_0/templates/header.html</name>
+<size>2459</size>
+<commit
+   revision="8079">
+<author>chen320</author>
+<date>2014-03-13T06:45:17.736173Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/Assignment3_0/templates/website</name>
+<commit
+   revision="8079">
+<author>chen320</author>
+<date>2014-03-13T06:45:17.736173Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/Assignment3_0/templates/website/index.html</name>
+<size>223</size>
+<commit
+   revision="8079">
+<author>chen320</author>
+<date>2014-03-13T06:45:17.736173Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/Assignment3_0/website</name>
+<commit
+   revision="8079">
+<author>chen320</author>
+<date>2014-03-13T06:45:17.736173Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/Assignment3_0/website/__init__.py</name>
+<size>0</size>
+<commit
+   revision="8079">
+<author>chen320</author>
+<date>2014-03-13T06:45:17.736173Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/Assignment3_0/website/admin.py</name>
+<size>63</size>
+<commit
+   revision="8079">
+<author>chen320</author>
+<date>2014-03-13T06:45:17.736173Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/Assignment3_0/website/models.py</name>
+<size>57</size>
+<commit
+   revision="8079">
+<author>chen320</author>
+<date>2014-03-13T06:45:17.736173Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/Assignment3_0/website/urls.py</name>
+<size>171</size>
+<commit
+   revision="8079">
+<author>chen320</author>
+<date>2014-03-13T06:45:17.736173Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/Assignment3_0/website/views.py</name>
+<size>106</size>
+<commit
+   revision="8079">
+<author>chen320</author>
+<date>2014-03-13T06:45:17.736173Z</date>
+</commit>
+</entry>
+</list>
+</lists>

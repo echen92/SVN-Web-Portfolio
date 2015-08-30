@@ -1,0 +1,36 @@
+{% include 'header.html' %}
+{% load threadedcomments_tags %}
+
+<div class="row">
+    <div class="container col-md-3">
+        <center>
+            <h3>Files in {{ project.name }}</h3>
+            <p>Date: {{ project.date }}</p>
+            <p>Revision: {{ project.revision }}</p>
+            <p>Message: {{ project.message }}</p>
+        </center>
+
+        <ul>
+            {% for k, v in project.files.items %}
+                <li>
+                    <a href="/project/{{ project.name }}/{{ v.name }}">{{ k }}</a>
+                    <ul>
+                        <li>Size: {{ v.size }}</li>
+                        <li>File-type: {{ v.ftype }}</li>
+                    </ul>
+                </li>
+            {% endfor %}
+        </ul>
+    </div>
+
+    <div class="container" style="padding-left: 10%">
+        {% get_comment_count for message as comment_count %}
+            <li>
+                <div class="message">
+                    <a href="{% url "message_detail" id=message.id %}">{{ comment_count }} Comments</a>
+                </div>
+            </li>
+    </div>
+</div>
+
+{% include 'footer.html' %}

@@ -1,0 +1,33 @@
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript" charset="utf-8"></script>
+<div id="form-comment">
+    <form id="comment-form" action="/comments/post/" method="post">{% csrf_token %}
+        <p><label for="id_name">Name:</label> <input id="id_name" maxlength="50" name="name" type="text" /></p>
+        <p><label for="id_email">Email address:</label> <input id="id_email" name="email" type="email" /></p>
+        <p><label for="id_comment">Comment:</label> <textarea cols="40" id="id_comment" name="comment" rows="10"> </textarea></p>
+        <p>
+            {{ form.honeypot.label_tag }}
+            {{ form.honeypot }}
+            {{ form.content_type }}
+            {{ form.object_pk }}
+            {{ form.timestamp }}
+            {{ form.security_hash }}
+            {{ form.parent }}
+        </p>
+{#        <p>#}
+{#            <input type="submit" value="Post comment"/>#}
+{#            <a href="#c0" id="cancel_reply">cancel reply</a>#}
+{#        </p>#}
+    </form>
+    <button id="submit-comment">Post comment</button>
+    <a href="#c0" id="cancel_reply">cancel reply</a>
+</div>
+
+<script type="text/javascript">
+    $('#submit-comment').on("click", function() {
+        $.post("/comments/post/", $('#comment-form').serialize(), function(data) {
+            $.get(document.URL, function(data) {
+                $('body').html(data);
+            });
+        });
+    });
+</script>
